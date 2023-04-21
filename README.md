@@ -30,4 +30,4 @@ En suivant ces étapes, vous pouvez commencer à apprendre le langage C et à d�
 Visual Studio Code, Eclipse et Code::Blocks.
 
 
-mini travaux  algorithmique en programmation C 
+
